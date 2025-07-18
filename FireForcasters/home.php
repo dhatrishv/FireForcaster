@@ -958,7 +958,7 @@ include ('connect.php');
         <h1>Welcome to Fire Forecaster</h1>
         <h2>Hello, <?php echo $_SESSION['username']; ?>!</h2>
         <p>Your safety is our priority. Stay updated with real-time fire alerts.</p>
-        <a href="https://blynk.cloud/dashboard/487846/global/devices/1/organization/487846/devices/1581644/dashboard" target="_blank" class="blynk-btn">Go to Blynk Dashboard</a>
+        <a href="#CREATE YOUR BLYNK DASHBOARD AND PUT THE LINK HERE" target="_blank" class="blynk-btn">Go to Blynk Dashboard</a>
       </div>
       <!-- <div class="hero-image">
         <img src="hero-image.jpg" alt="Hero Image">
