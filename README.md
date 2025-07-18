@@ -1,4 +1,4 @@
-# 🔥 Smart Fire Detection System (IoT + AI) – Code Alchemists
+# 🔥 Smart Fire Detection System (IoT + AI) – FireForecaster
 
 ## 🚀 Overview
 Every year, over 12,000 lives are lost in India due to delayed fire alerts in homes. While offices use smart detection systems that alert authorities instantly, homes still rely on outdated smoke alarms that lack communication capabilities.
