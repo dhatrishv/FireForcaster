@@ -29,11 +29,11 @@ Homes lack real-time, automated fire alert systems unlike advanced office setups
 
 ## 🔧 Hardware Used
 
-- **Raspberry Pi 4**
+- **Ardiuno UNO**
 - **DHT22** – Temperature and humidity sensor
 - **MQ-2** – Gas and smoke sensor
-- **Optical Smoke Sensor**
-- **Raspberry Pi Camera Module 3**
+- **Smoke Sensor**
+- **ARDIUNO Camera Module 3**
 - **Relay Module** – To cut electrical power supply automatically
 
 ---
@@ -49,11 +49,10 @@ Homes lack real-time, automated fire alert systems unlike advanced office setups
 
 ### 💻 Frontend
 - HTML, CSS, JavaScript  
-- PHP (optional backend management)
+- PHP (Backend connections)
 
-### 🧠 AI/ML
-- TensorFlow Lite  
-- OpenCV  
+### 🧠 Database and AI/ML
+- MariaDB (MySQL)
 - Pre-trained fire and smoke detection model
 
 ---
@@ -92,12 +91,9 @@ Homes lack real-time, automated fire alert systems unlike advanced office setups
 
 ## 📸 Screenshots (Add later)
 
-> Add images like:
-> - Circuit setup  
-> - Website fire alert interface  
-> - Live prediction result  
-> - Power cut indicator
-
+![Web Interface](images/Web interface.png)
+![Power Cut](images/Power cut and gas indicator.jpg)
+![Circuit Setup](images/Sample circuit.jpg)
 
 ---
 
