@@ -89,11 +89,14 @@ Homes lack real-time, automated fire alert systems unlike advanced office setups
 
 ---
 
-## 📸 Screenshots (Add later)
-
-![Web Interface](images/Web interface.png)
-![Power Cut](images/Power cut and gas indicator.jpg)
+## 📸 Screenshots 
+### 🔧 Circuit Setup
 ![Circuit Setup](images/Sample circuit.jpg)
+### 🌐 Website Interface
+![Web Interface](images/Web interface.jpg)
+### ⚡ Power Cut Alert
+![Power Cut](images/Power cut and gas indicator.jpg)
+
 
 ---
 
