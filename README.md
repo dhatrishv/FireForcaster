@@ -71,11 +71,11 @@ Homes lack real-time, automated fire alert systems unlike advanced office setups
 
 ## 🌐 Web Dashboard Features
 
-- 🔥 Real-time fire detection alerts
-- 🌡️ Temperature, gas, and smoke levels
-- ⚠️ Visual fire risk indicator
-- ⚡ Power supply status (ON/OFF)
-- 📸 Live camera stream feed
+- 🔥 Real-time fire detection alerts (Displayed in Blynk Dashboard)
+- 🌡️ Temperature, gas, and smoke levels 
+- ⚠️ Visual fire risk indicator (Displayed in Blynk Dashboard)
+- ⚡ Power supply status {1(if ON)/0(if OFF)}
+- 📸 Live camera stream feed (Displayed in Blynk Dashboard)
 
 ---
 
