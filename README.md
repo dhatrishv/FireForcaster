@@ -83,7 +83,7 @@ Homes lack real-time, automated fire alert systems unlike advanced office setups
 | Name                | Contact                  |
 |---------------------|---------------------------|
 | K P Suhas           | kpsuhas01@gmail.com       |
-| Nischitha N         | nischithanarayan2005@gmail.com |
+| Nischitha N         | nn19702005@gmail.com |
 | V Dhatrish          | dhatrishvemullapally@gmail.com |
 | Turga Krishna Kartheek | turagakrishnakartheek@gmail.com |
 
